@@ -27,4 +27,4 @@ git clone --recurse-submodules git@github.com:XGC-Team/xgc2-robot-description.gi
 ```
 
 The main catalog mounts this repository at
-`products/robotics/xgc2-robot-description`.
+`products/robotics/robot-description`.
