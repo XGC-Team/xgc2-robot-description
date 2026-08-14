@@ -1,0 +1,36 @@
+[submodule "ros1/scout_description"]
+	path = ros1/scout_description
+	url = git@github.com:XGC-Team/xgc2-scout-description.git
+	branch = noetic
+[submodule "ros1/melodic/scout_description"]
+	path = ros1/melodic/scout_description
+	url = git@github.com:XGC-Team/xgc2-scout-description.git
+	branch = melodic
+[submodule "ros1/fs150_description"]
+	path = ros1/fs150_description
+	url = git@github.com:XGC-Team/xgc2-fs150-description.git
+	branch = noetic
+[submodule "ros1/mecanum_description"]
+	path = ros1/mecanum_description
+	url = git@github.com:XGC-Team/xgc2-mecanum-description.git
+	branch = noetic
+[submodule "ros1/b2arx_description"]
+	path = ros1/b2arx_description
+	url = git@github.com:XGC-Team/xgc2-b2arx-description.git
+	branch = noetic
+[submodule "ros2/scout_description"]
+	path = ros2/scout_description
+	url = git@github.com:XGC-Team/xgc2-scout-description.git
+	branch = jazzy
+[submodule "ros2/fs150_description"]
+	path = ros2/fs150_description
+	url = git@github.com:XGC-Team/xgc2-fs150-description.git
+	branch = jazzy
+[submodule "ros2/mecanum_description"]
+	path = ros2/mecanum_description
+	url = git@github.com:XGC-Team/xgc2-mecanum-description.git
+	branch = jazzy
+[submodule "ros2/b2arx_description"]
+	path = ros2/b2arx_description
+	url = git@github.com:XGC-Team/xgc2-b2arx-description.git
+	branch = jazzy
