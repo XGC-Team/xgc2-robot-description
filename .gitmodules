@@ -2,6 +2,10 @@
 	path = ros1/scout_description
 	url = git@github.com:XGC-Team/xgc2-scout-description.git
 	branch = noetic
+[submodule "ros1/melodic/scout_description"]
+	path = ros1/melodic/scout_description
+	url = git@github.com:XGC-Team/xgc2-scout-description.git
+	branch = melodic
 [submodule "ros1/fs150_description"]
 	path = ros1/fs150_description
 	url = git@github.com:XGC-Team/xgc2-fs150-description.git
