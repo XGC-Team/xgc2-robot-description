@@ -15,10 +15,18 @@ here.
 | `ros1/fs150_description` | [xgc2-fs150-description](https://github.com/XGC-Team/xgc2-fs150-description) | `noetic` |
 | `ros1/mecanum_description` | [xgc2-mecanum-description](https://github.com/XGC-Team/xgc2-mecanum-description) | `noetic` |
 | `ros1/b2arx_description` | [xgc2-b2arx-description](https://github.com/XGC-Team/xgc2-b2arx-description) | `noetic` |
+| `ros1/g1_description` | [xgc2-g1-description](https://github.com/XGC-Team/xgc2-g1-description) | `noetic` |
+| `ros1/go2_description` | [xgc2-go2-description](https://github.com/XGC-Team/xgc2-go2-description) | `noetic` |
+| `ros1/h1_description` | [xgc2-h1-description](https://github.com/XGC-Team/xgc2-h1-description) | `noetic` |
+| `ros1/h1_2_description` | [xgc2-h1-2-description](https://github.com/XGC-Team/xgc2-h1-2-description) | `noetic` |
 | `ros2/scout_description` | xgc2-scout-description | `jazzy` |
 | `ros2/fs150_description` | xgc2-fs150-description | `jazzy` |
 | `ros2/mecanum_description` | xgc2-mecanum-description | `jazzy` |
 | `ros2/b2arx_description` | xgc2-b2arx-description | `jazzy` |
+| `ros2/g1_description` | xgc2-g1-description | `jazzy` |
+| `ros2/go2_description` | xgc2-go2-description | `jazzy` |
+| `ros2/h1_description` | xgc2-h1-description | `jazzy` |
+| `ros2/h1_2_description` | xgc2-h1-2-description | `jazzy` |
 
 Clone recursively:
 

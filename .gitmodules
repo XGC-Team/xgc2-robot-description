@@ -34,3 +34,35 @@
 	path = ros2/b2arx_description
 	url = git@github.com:XGC-Team/xgc2-b2arx-description.git
 	branch = jazzy
+[submodule "ros1/g1_description"]
+	path = ros1/g1_description
+	url = git@github.com:XGC-Team/xgc2-g1-description.git
+	branch = noetic
+[submodule "ros1/go2_description"]
+	path = ros1/go2_description
+	url = git@github.com:XGC-Team/xgc2-go2-description.git
+	branch = noetic
+[submodule "ros1/h1_description"]
+	path = ros1/h1_description
+	url = git@github.com:XGC-Team/xgc2-h1-description.git
+	branch = noetic
+[submodule "ros1/h1_2_description"]
+	path = ros1/h1_2_description
+	url = git@github.com:XGC-Team/xgc2-h1-2-description.git
+	branch = noetic
+[submodule "ros2/g1_description"]
+	path = ros2/g1_description
+	url = git@github.com:XGC-Team/xgc2-g1-description.git
+	branch = jazzy
+[submodule "ros2/go2_description"]
+	path = ros2/go2_description
+	url = git@github.com:XGC-Team/xgc2-go2-description.git
+	branch = jazzy
+[submodule "ros2/h1_description"]
+	path = ros2/h1_description
+	url = git@github.com:XGC-Team/xgc2-h1-description.git
+	branch = jazzy
+[submodule "ros2/h1_2_description"]
+	path = ros2/h1_2_description
+	url = git@github.com:XGC-Team/xgc2-h1-2-description.git
+	branch = jazzy
