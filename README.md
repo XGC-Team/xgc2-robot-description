@@ -9,6 +9,8 @@ for Melodic. The Melodic Debian package is still built from the source
 repository's `melodic` branch (catkin / Bionic), not from a duplicate checkout
 here.
 
+![ROS 1 robot descriptions at high, medium and low visual detail](robot-lod-matrix.png)
+
 | Path | Repository | Branch |
 | --- | --- | --- |
 | `ros1/scout_description` | [xgc2-scout-description](https://github.com/XGC-Team/xgc2-scout-description) | `noetic` |
