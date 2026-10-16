@@ -38,3 +38,13 @@ git clone --recurse-submodules git@github.com:XGC-Team/xgc2-robot-description.gi
 
 The main catalog mounts this repository at
 `products/robotics/robot-description`.
+
+## License
+
+Copyright © 2026 XGC-Team contributors.
+
+The original prose in this README and `robot-lod-matrix.png` are licensed under
+[CC BY-NC 4.0](LICENSES/CC-BY-NC-4.0.txt).
+
+Each robot model keeps the license recorded in its own submodule (`LICENSE` and
+`package.xml`): BSD-3-Clause, Apache-2.0, or Proprietary.
